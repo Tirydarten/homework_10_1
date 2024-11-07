@@ -1,5 +1,5 @@
-from Home_work_poetry.src.widget import mask_account_card, get_date
-from Home_work_poetry.src.processing import filter_by_state, sort_by_date
+from src.widget import mask_account_card, get_date
+from src.processing import filter_by_state, sort_by_date
 
 
 print(mask_account_card("Visa Gold 5999414228426353"))
