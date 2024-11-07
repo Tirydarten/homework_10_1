@@ -2,7 +2,7 @@ from typing import Any
 
 import pytest
 
-from Home_work_poetry.src.masks import get_mask_account, get_mask_card_number
+from src.masks import get_mask_card_number, get_mask_account
 
 """Тестирование модуль masks. Функция get_mask_card_number"""
 

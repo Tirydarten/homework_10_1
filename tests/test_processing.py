@@ -1,6 +1,6 @@
 import pytest
 
-from Home_work_poetry.src.processing import filter_by_state, sort_by_date
+from src.processing import filter_by_state, sort_by_date
 
 
 @pytest.mark.parametrize(
